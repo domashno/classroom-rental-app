@@ -1,4 +1,4 @@
-package se.lexicon;
+package se.lexicon.classroomrental;
 
 //TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
