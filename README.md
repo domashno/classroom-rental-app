@@ -178,9 +178,3 @@ mvn compile exec:java -Dexec.mainClass="se.lexicon.classroomrental.Main"
 9. **Cancel Booking:** Remove a reservation by booking ID.
 
 ---
-
-## 🌿 Git Workflow
-
-This repository follows structured Git practices:
-- Incremental, descriptive commits (`feat:`, `fix:`, `chore:`, `docs:`).
-- Feature development on separate branches (e.g., `feature/booking-search-and-validation`) merged back into `main` upon completion.
